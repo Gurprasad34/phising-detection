@@ -122,5 +122,4 @@ Special attention was given to **phishing recall and false negatives**, since a 
 - Test the models on an independent phishing dataset to evaluate generalization
 - Explore additional feature-selection techniques
 - Optimize the classification threshold to further reduce false negatives
-- Build a real-time prediction pipeline for new URLs
 - Deploy the final model through a lightweight web application or API
